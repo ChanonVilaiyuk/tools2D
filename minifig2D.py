@@ -11,6 +11,7 @@ reload(mayaTools)
 from tools import fileUtils
 reload(fileUtils)
 
+# change after commit
 class minifig2D() : 
 	def __init__(self) : 
 
